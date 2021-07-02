@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    background: linear-gradient(#0af03f,
+#0998ab);
+    font-family: Comic Sans MS;
+}
+#img1{
+    border-radius: 100%;
+}
+.menuitems{
+    list-style: none;
+    position:absolute ;
+    top:10px;
+    right:30px;
+    cursor: pointer;
+    font-family: Comic Sans MS;
+}
+.items{
+    float: left;
+color :darkblue;
+    font-size: 20px;
+    font-weight: bold;
+    padding-top:5px;
+    padding-bottom: 5px;
+      padding-left: 9px;
+     padding-right: 9px;
+}
+.items:hover{
+    background-color: aqua;
+}
